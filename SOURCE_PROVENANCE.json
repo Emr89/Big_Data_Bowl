@@ -1,0 +1,6 @@
+{
+  "original_file": "instantaneous-kick-received-analysis.r",
+  "original_sha256": "921f69a921b279c39ae36e12ffc6c48a2514e05e70114fb3b33599c657ceb5ef",
+  "change": "Recover notebook format, clear execution claims, repair truncated fitControl argument. Original export retained.",
+  "execution": "Parse only. Raw tracking data not included."
+}
